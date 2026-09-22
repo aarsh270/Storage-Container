@@ -1,4 +1,4 @@
-This is my first project!
+This is my first CAD project!
 
 It is a Storage Container, like the ones that are used to organize small things like screws, allen keys, small tools, etc.
 
